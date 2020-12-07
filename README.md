@@ -1,7 +1,7 @@
 # Privoxy for Windows
 ![MSBuild](https://github.com/xinlake/privoxy-windows/workflows/MSBuild/badge.svg)
 
-Build and debug [Privoxy](https://www.privoxy.org/) using Visual Studio 2019. 
+Build and debug [Privoxy](https://www.privoxy.org/) using Visual Studio 2019 on Windows. 
 privoxy-windows will follow up the official version.
 
 * privoxy
